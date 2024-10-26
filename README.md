@@ -1,3 +1,3 @@
 # himanshu-demo
-This is mgity first Git Repository
+This is my first Git Repository
 
